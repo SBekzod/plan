@@ -6,6 +6,3 @@ console.log("Executed at", time);
 
 const result = counter.add(10, 40);
 console.log("result:", result);
-
-const result2 = counter.multiply(20, 10);
-console.log("result2:", result2);
