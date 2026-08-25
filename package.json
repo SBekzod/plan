@@ -1,0 +1,19 @@
+{
+  "name": "plan",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ETHAN",
+  "license": "MIT",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "moment": "^2.30.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
